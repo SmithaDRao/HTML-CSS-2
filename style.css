@@ -1,0 +1,48 @@
+
+ul,li {
+background-color: rgb(200, 211, 179);
+padding: 8px;
+height: 100%;
+width: 78%;
+}
+ul{
+    list-style:none;
+    margin: 0;
+    padding: 0;
+    border:3px dotted rebeccapurple;
+}
+li {
+    border:3px solid brown;
+    margin: 2em;
+    padding: 2em;
+    background-color: cornsilk;  
+    width: 85%;
+  
+}
+h1{
+    text-align: center;
+    padding: 0.5em;
+    background-color: rgb(192, 200, 207);
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;   
+}
+p{
+    background-color: rgb(208, 216, 215);
+    border: 1px dashed brown;
+    box-sizing: content-box;
+    
+}
+
+.right{
+    float:right;
+    width: 20%;
+    height: 150px;
+    border:10px dashed black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(211, 179, 195);
+    border-radius: 30px;
+    text-align: justify-all;
+   
+    
+
+}
